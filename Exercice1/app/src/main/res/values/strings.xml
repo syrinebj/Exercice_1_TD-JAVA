@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exercice 1</string>
+    <string name="titre">Calcul de votre IMC</string>
+    <string name="nom">Votre Nom</string>
+    <string name="poids">Votre poids</string>
+    <string name="taille">Votre taille</string>
+    <string name="age">Votre age</string>
+    <string name="bCalculer">Calculer</string>
+    <string name="tvResultat">Votre IMC</string>
+    <string name="text">khoul a 29 ans. Il pese 81Kg pour une taille de 1.84m</string>
+</resources>
